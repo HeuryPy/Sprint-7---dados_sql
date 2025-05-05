@@ -10,6 +10,10 @@ Este Projeto foi desenvolvido como requisito para aprovação na Sprint 7 do Boo
 
 💡O Projeto consistiu em realizar análise exploratória de dados e testar hipóteses para uma nova empresa de compartilhamento de caronas que está sendo lançada em Chicago.<br>
 
+
+**Sugestões para o futuro:** <br>
+Executar um teste estatístico também para comparar as variâncias.
+
 **Arquivos do Projeto:**
 - projeto_sprint7.ipynb (caderno Jupyter)
 - project_sql_result_01.csv (dataset)
